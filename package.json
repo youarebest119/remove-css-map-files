@@ -1,0 +1,23 @@
+{
+    "name": "remove-css-map-files",
+    "version": "1.0.1",
+    "description": "A CLI tool to remove .css and .map files from directories",
+    "main": "src/index.js",
+    "bin": {
+        "remove-css-map-files": "./src/index.js"
+    },
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "keywords": [
+        "remove",
+        "css",
+        "map",
+        "files",
+        "cli",
+        "tool"
+    ],
+    "dependencies": {},
+    "author": "Lovepreet",
+    "license": "MIT"
+}
